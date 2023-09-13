@@ -22,7 +22,15 @@ technologies.</p>
   <summary>🔥 Github Status</summary>
   <br>
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="middle" alt="fatihg80 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fatihg80&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fatihg80&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl" style="max-width: 100%;">
+     <img align="middle" alt="fatihg80 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fatihg80&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fatihg80&count_private=true&show_icons=true&theme=nightowl" style="max-width: 100%;">
+  </a>
+</details>
+  <br>
+  <details open="">
+  <summary>🔥 Github ReadMe Status</summary>
+  <br>
+   <a href="https://camo.githubusercontent.com/2da6e44b99d32b155fe6a450d97996caacad6c9e1cf68dbe123dee7be1662083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d61757261"><img src="https://camo.githubusercontent.com/2da6e44b99d32b155fe6a450d97996caacad6c9e1cf68dbe123dee7be1662083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d61757261" alt="aura" data-canonical-src="" title="Go to Source">
+    
   </a>
 </details>
   <br>
