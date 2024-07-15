@@ -6,7 +6,13 @@ and solving complex issues Steadfast in planning and implementing effective
 development strategies based on industry best practices to accomplish customer
 targets and promote company loyalty. Expert in diverse programming languages and
 technologies.</p>
+<br>
+<br>
+  <br>
+<br>
 <h3 dir="auto"><a id="user-content-️-languages-and-tools" class="anchor" aria-hidden="true" tabindex="-1" href="#️-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>⚔️ Languages and Tools:</h3>
+<br>
+<br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="left" alt="Docker" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/640px-Docker-svgrepo-com.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Docker-svgrepo-com.svg/640px-Docker-svgrepo-com.svg.png" style="max-width: 100%;"></a></p>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="left" alt="Laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/640px-Laravel.svg.png" style="max-width: 100%;"></a></p>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="left" alt="Angulajs" width="32px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnADTouCzHqWl4zJnxjTGvjlO_4JprpqIA_BZ9g24ZdKN-JSZWpOu98DTzRM7jGXC304&usqp=CAU" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnADTouCzHqWl4zJnxjTGvjlO_4JprpqIA_BZ9g24ZdKN-JSZWpOu98DTzRM7jGXC304&usqp=CAU" style="max-width: 100%;"></a></p>
@@ -17,7 +23,10 @@ technologies.</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="left" alt="Git" width="32px" src="https://camo.githubusercontent.com/9e38975334bbe4cbd7a6b3b8d5db491b9900ec7260d4fc9bfd2c9050c988fd1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6769742e706e67" data-canonical-src="https://img.icons8.com/color/344/git.png" style="max-width: 100%;"></a></p>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 <details>
   <summary>🤝 Keep in touch </summary>
   <br>
