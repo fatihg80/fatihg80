@@ -17,35 +17,7 @@ technologies.</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="left" alt="Git" width="32px" src="https://camo.githubusercontent.com/9e38975334bbe4cbd7a6b3b8d5db491b9900ec7260d4fc9bfd2c9050c988fd1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6769742e706e67" data-canonical-src="https://img.icons8.com/color/344/git.png" style="max-width: 100%;"></a></p>
 <br>
 <br>
-<br>
-<details open="">
-  <summary>🔥 Github Status</summary>
-  <br>
-   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-     <img align="middle" alt="fatihg80 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fatihg80&show_icons=true&theme=radical" data-canonical-src="https://github-readme-stats.vercel.app/api?username=fatihg80&count_private=true&show_icons=true&theme=nightowl" style="max-width: 100%;">
-  </a>
-</details>
-  <br>
-  <details open="">
-  <summary>🔥 Github ReadMe Status</summary>
-  <br>
-   <a href="https://camo.githubusercontent.com/2da6e44b99d32b155fe6a450d97996caacad6c9e1cf68dbe123dee7be1662083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d61757261"><img src="https://camo.githubusercontent.com/2da6e44b99d32b155fe6a450d97996caacad6c9e1cf68dbe123dee7be1662083/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d61757261" alt="aura" data-canonical-src="" title="Go to Source">
-    
-  </a>
-</details>
-  <br>
-<details>
-  <summary>✍ Programming Languages</summary>
-  <br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1de8554caea82920fce27796109641c299498a6692c2ea0666292f12ce37fd7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d61732d646971267468656d653d6e696768746f776c266c61796f75743d636f6d70616374266c616e67735f636f756e743d38"><img align="middle" alt="mas-diq's Language Used" src="https://camo.githubusercontent.com/1de8554caea82920fce27796109641c299498a6692c2ea0666292f12ce37fd7b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d61732d646971267468656d653d6e696768746f776c266c61796f75743d636f6d70616374266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-diq&amp;theme=nightowl&amp;layout=compact&amp;langs_count=8" style="max-width: 100%;"></a>
-</details>
-  <br>
-<details>
-  <summary>🛠️ All Time Activity</summary>
-  <br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/44b92de5ffac8272374cd5302b611b6ded4b5d7a66f585280c2b9cbe3f39cdd9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6d73663331267468656d653d6e696768746f776c266c61796f75743d636f6d70616374"><img align="middle" alt="mas-diq's Language Used" src="https://camo.githubusercontent.com/44b92de5ffac8272374cd5302b611b6ded4b5d7a66f585280c2b9cbe3f39cdd9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6d73663331267468656d653d6e696768746f776c266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=msf31&amp;theme=nightowl&amp;layout=compact" style="max-width: 100%;"></a>
-</details>
-  <br>
+
 <details>
   <summary>🤝 Keep in touch </summary>
   <br>
