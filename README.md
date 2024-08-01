@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)]
+[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)
 <h1 align="center">Hi there 👋, I'm Alfatih Abdalla</h1>
 <h3 align="center">I am a Senior Software Developer professional with 12 years of experience leading projects
 by acting as architect, developer and programmer analyst. Proficient in supporting
@@ -8,7 +8,7 @@ development strategies based on industry best practices to accomplish customer
 targets and promote company loyalty. Expert in diverse programming languages and
 technologies.</h3>
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihg80&label=Profile%20views&color=0e75b6&style=flat" alt="fatihg80" /> </p>
 
 
 
