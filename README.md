@@ -19,10 +19,6 @@ technologies.</h3>
      **NodeJs,AngularJs,ReactJs,TypeScript,API,PHP**
      **Framework (Laravel,Strapi,Gatsby,NextJs)**
      **Cms(Drupal,Joomla)**
-
-- 📫 **How to reach me:**
-  
-     **fabdalla782@gmail.com**
   
 
 - <a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
@@ -55,7 +51,8 @@ technologies.</h3>
 <br>
 <br>
 <details>
-  <summary>🤝 Keep in touch </summary>
+ 
+  <summary>🤝 **Keep in touch** </summary>
   <br>
 <a href="https://www.linkedin.com/in/alfatihabdalla/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.napiotech.com/" rel="nofollow"><img alt="WebSite" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
