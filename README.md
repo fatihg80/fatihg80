@@ -8,7 +8,18 @@ development strategies based on industry best practices to accomplish customer
 targets and promote company loyalty. Expert in diverse programming languages and
 technologies.</h3>
 <img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihg80&label=Profile%20views&color=0e75b6&style=flat" alt="fatihg80" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zataxo&label=Profile%20views&color=0e75b6&style=flat" alt="zataxo" /> </p>
+
+ - 👨‍💻 also check [http://napiotech.com/resume/](http://napiotech.com/resume/)
+
+- 💬 Ask me about **NodeJs,AngularJs,NextJs,TypeScript,PHP,Laravel,Strapi,Gatsby,Cms(Drupal,Joomla)**
+
+- 📫 How to reach me **fabdalla782@gmail.com**
+- <a title="Made with Fluent Design" href="https://github.com/bdlukaa/fluent_ui">
+  <img
+    src="https://img.shields.io/badge/fluent-design-blue?style=flat-square&color=7A7574&labelColor=0078D7"
+  />
+</a>
 
 
 
