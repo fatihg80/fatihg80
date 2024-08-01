@@ -1,12 +1,16 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h1 dir="auto"><a id="user-content-hi-there-im-Fabdalla-" class="anchor" aria-hidden="true" tabindex="-1" href="#hi-there-im-Fabdalla-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hi there, I'm Alfatih Abdalla <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img width="42px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" style="max-width: 100%;"></a></h1>
-<p dir="auto">I am a Senior Software Developer professional with 12 years of experience leading projects
+[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](http://hassanog.wixsite.com/hassan)
+<h1 align="center">Hi there 👋, I'm Alfatih Abdalla</h1>
+<h3 align="center">I am a Senior Software Developer professional with 12 years of experience leading projects
 by acting as architect, developer and programmer analyst. Proficient in supporting
 project deliverables and maintaining releases Strong leader in guiding support teams
 and solving complex issues Steadfast in planning and implementing effective
 development strategies based on industry best practices to accomplish customer
 targets and promote company loyalty. Expert in diverse programming languages and
-technologies.</p>
-<br>
+technologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zataxo&label=Profile%20views&color=0e75b6&style=flat" alt="zataxo" /> </p>
+
+  
 <br>
   <br>
 <br>
