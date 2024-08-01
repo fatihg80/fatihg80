@@ -1,4 +1,4 @@
-
+[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)]
 <h1 align="center">Hi there 👋, I'm Alfatih Abdalla</h1>
 <h3 align="center">I am a Senior Software Developer professional with 12 years of experience leading projects
 by acting as architect, developer and programmer analyst. Proficient in supporting
