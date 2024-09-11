@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)]
+![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)
 <h1 align="center">Hi there 👋, I'm Alfatih Abdalla</h1>
 <h3 align="center">I am a Senior Software Developer professional with 12 years of experience leading projects
 by acting as architect, developer and programmer analyst. Proficient in supporting
@@ -7,12 +7,9 @@ and solving complex issues Steadfast in planning and implementing effective
 development strategies based on industry best practices to accomplish customer
 targets and promote company loyalty. Expert in diverse programming languages and
 technologies.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihg80&label=Profile%20views&color=0e75b6&style=flat" alt="fatihg80" /> </p>
 
- - 👨‍💻 **also check:**
-
-     [http://napiotech.com/resume/](http://napiotech.com/resume/)
+<br>
+<br>
 
 - 💬 **Ask me about :**
   
@@ -36,15 +33,14 @@ technologies.</h3>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img align="left" alt="Git" width="32px" src="https://camo.githubusercontent.com/9e38975334bbe4cbd7a6b3b8d5db491b9900ec7260d4fc9bfd2c9050c988fd1d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f6769742e706e67" data-canonical-src="https://img.icons8.com/color/344/git.png" style="max-width: 100%;"></a></p>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 <details>
  
   <summary>🤝 **Keep in touch** </summary>
   <br>
 <a href="https://www.linkedin.com/in/alfatihabdalla/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+
+
 <a href="https://www.napiotech.com/" rel="nofollow"><img alt="WebSite" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" data-canonical-src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;"></a>
 </details>
 </article>
