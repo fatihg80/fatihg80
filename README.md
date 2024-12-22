@@ -1,14 +1,14 @@
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/fatihg80/fatihg80"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/fatihg80/fatihg80/graphs/contributors"><img src="https://img.shields.io/github/contributors/fatihg80/fatihg80?color=blue"></a>
     <a href="https://github.com/fatihg80/fatihg80/stargazers"><img src="https://img.shields.io/github/stars/fatihg80/fatihg80.svg?logo=github"></a>
     <a href="https://github.com/fatihg80/fatihg80/network/members"><img src="https://img.shields.io/github/forks/fatihg80/fatihg80.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
-</p>
+</p> -->
 
 <!--   my-header-img -->
 ![](assets/src/header_.png)
