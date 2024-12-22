@@ -13,8 +13,12 @@
 <!--   my-header-img -->
 ![](assets/src/header_.png)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23034103&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Alfatih+Abdalla;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;Always+learning+new+things+;Machine+learning+,+DevOps+,+Cloud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23034103&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Alfatih+Abdalla;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;Always+learning+new+things+;Machine+learning+,+DevOps+,+MicroServices)](https://git.io/typing-svg)
 
 
 
