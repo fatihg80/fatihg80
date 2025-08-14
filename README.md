@@ -17,9 +17,9 @@
 
 <!--   my-ticker -->  
 <p align="center">
+#272730
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%272730&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&font=Fira%20Code&lines=Hi+there+👋,+I+am+Alfatih+Abdalla;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;Always+learning+new+things+;Machine+learning+,+DevOps+,+MicroServices!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23034103&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&font=Fira%20Code&lines=Hi+there+👋,+I+am+Alfatih+Abdalla;+Welcome+to+My+Profile!;Over+10+years+of+programming+experience;Always+learning+new+things+;Machine+learning+,+DevOps+,+MicroServices!)](https://git.io/typing-svg)
 
 </p>
 
