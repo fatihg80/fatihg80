@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihg80&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p> -->
 
----
+<!-- --- -->
 
 
 
@@ -59,7 +59,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihg80&theme=tokyonight" alt="GitHub Streak Stats" />
 </p> -->
 
----
+<!-- --- -->
 
 ## 🏆 GitHub Trophies
 
