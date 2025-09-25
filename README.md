@@ -46,18 +46,18 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fatihg80&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihg80&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-</p>
+</p> -->
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihg80&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
 ---
 
