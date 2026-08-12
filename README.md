@@ -28,20 +28,9 @@
 
 ---
 
-## 📜 Certificates & Courses
+## 📜 Professional Summary
 
-- Docker Mastery  
-- Bash Scripting Mastery  
-- Terraform Certified Associate  
-- RedHat Certified Engineer (RHCE)  
-- Microsoft Azure Fundamentals – AZ-900  
-- AWS Cloud Automation Using Python Scripting  
-- Git and GitHub Mastery  
-- CI/CD Using Jenkins & GitHub Actions  
-- Kubernetes Mastery  
-- Prometheus and Grafana Mastery  
-- Red Hat Certified System Administrator (RHCSA) – Admin I  
-- AWS Certified Cloud Practitioner & Solutions Architect Associate (CLF-C02 + SAA-C03)  
+Senior Software Engineer with extensive experience designing, developing, deploying, and maintaining enterprise software solutions across government and private-sector organizations. Experienced in leading the complete software development lifecycle from business requirements and solution architecture through production deployment, delivering scalable digital transformation initiatives and AI-enabled enterprise platforms. Passionate about building maintainable software products that combine technical excellence, business value, scalability, and long-term sustainability.
 
 
 ---
