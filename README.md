@@ -43,6 +43,24 @@
 - Red Hat Certified System Administrator (RHCSA) – Admin I  
 - AWS Certified Cloud Practitioner & Solutions Architect Associate (CLF-C02 + SAA-C03)  
 
+
+---
+
+## 📜 Certificates & Courses
+
+- Docker Mastery  
+- Bash Scripting Mastery  
+- Terraform Certified Associate  
+- RedHat Certified Engineer (RHCE)  
+- Microsoft Azure Fundamentals – AZ-900  
+- AWS Cloud Automation Using Python Scripting  
+- Git and GitHub Mastery  
+- CI/CD Using Jenkins & GitHub Actions  
+- Kubernetes Mastery  
+- Prometheus and Grafana Mastery  
+- Red Hat Certified System Administrator (RHCSA) – Admin I  
+- AWS Certified Cloud Practitioner & Solutions Architect Associate (CLF-C02 + SAA-C03)  
+
 ---
 
 
