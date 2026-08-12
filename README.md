@@ -49,7 +49,7 @@ Senior Software Engineer with extensive experience designing, developing, deploy
 
 ## 📜 Professional Experience
 
-Senior Software Engineer – King Abdulaziz Foundation for Research and Archives (Darah).
+Senior Software Engineer – █████████████████████████████████████.
 Riyadh, Saudi Arabia | January 2017 – Present
 
 - Led the end-to-end delivery of enterprise software solutions from requirements through production deployment. 
