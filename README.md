@@ -73,7 +73,7 @@ Designed and delivered an AI-powered enterprise speech processing platform integ
 
 ---
 
-### Enterprise Intelligent Document Processing Platform — Darah OCR | 2025
+### Enterprise Intelligent Document Processing Platform — DA OCR | 2025
 
 Designed and delivered an OCR-driven enterprise document processing platform supporting structured document workflows, asynchronous processing, secure storage, operational dashboards, and scalable enterprise deployment.
 
