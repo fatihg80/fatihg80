@@ -35,6 +35,18 @@ Senior Software Engineer with extensive experience designing, developing, deploy
 
 ---
 
+## 📜 Core Competencies
+
+- Enterprise Software Engineering, End-to-End Product Development 
+- Software Architecture, Solution Planning, Solution Design, Database Design  
+- System Analysis, Technical Documentation  
+- Business Process Automation, Workflow Automation, CI/CD Automation  
+- REST API Design & Integration, AI Solution Integration  
+- Cloud Application Deployment, DevOps Practices  
+- Technical Leadership, Stakeholder Collaboration  
+ 
+---
+
 ## 📜 Certificates & Courses
 
 - Docker Mastery  
