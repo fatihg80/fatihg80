@@ -52,14 +52,14 @@ Senior Software Engineer with extensive experience designing, developing, deploy
 Senior Software Engineer – King Abdulaziz Foundation for Research and Archives (Darah).
 Riyadh, Saudi Arabia | January 2017 – Present
 
-- •	Led the end-to-end delivery of enterprise software solutions from requirements through production deployment. 
-- •	Designed scalable enterprise architectures serving government digital transformation initiatives.
-- •	Built secure full-stack applications using Laravel, Next.js, React, and PostgreSQL.  
-- •	Architected RESTful APIs and workflow-driven enterprise platforms.  
-- •	Integrated AI capabilities including Speech-to-Text, OCR, and Text-to-Speech services, into enterprise applications. 
-- •	Designed secure authentication, authorization, and Role-Based Access Control (RBAC) mechanisms, and secure application workflows. 
-- •	Automated deployments using Docker, CI/CD pipelines, and Linux production environments.
-- •	Produced technical documentation, established engineering standards, and mentored development teams.
+- Led the end-to-end delivery of enterprise software solutions from requirements through production deployment. 
+- Designed scalable enterprise architectures serving government digital transformation initiatives.
+- Built secure full-stack applications using Laravel, Next.js, React, and PostgreSQL.  
+- Architected RESTful APIs and workflow-driven enterprise platforms.  
+- Integrated AI capabilities including Speech-to-Text, OCR, and Text-to-Speech services, into enterprise applications. 
+- Designed secure authentication, authorization, and Role-Based Access Control (RBAC) mechanisms, and secure application workflows. 
+- Automated deployments using Docker, CI/CD pipelines, and Linux production environments.
+- Produced technical documentation, established engineering standards, and mentored development teams.
  
 ---
 
