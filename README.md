@@ -9,7 +9,7 @@
 <!-- Typing Animation -->
 <p align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=800&height=80&duration=4000&pause=1000&font=Fira%20Code&lines=Hi+there+👋,+I'm+Alfatih+Abdalla;Software+Engineer+%7C+Enterprise+Software+Architecture+%7C+AI+Solutions;Full-Stack+Engineering+(PHP%2FLaravel,+Go,+Python,+Nodejs,+Reactjs%2FNextjs);Passionate+about+REST+API+Design+Integration,+DevSecOps,+and+Microservices;Building+Scalable+%26+Secure+Systems;AI+Solution+Integration,+AI+Agents,+and+Automation;Always+Learning+%26+Sharing+Knowledge!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&center=true&vCenter=true&width=800&height=80&duration=4000&pause=1000&font=Fira%20Code&lines=Hi+there+👋,+I'm+Alfatih+Abdalla;Software+Engineer+%7C+Enterprise+Software+Architecture+%7C+AI+Solutions;+Full+Stack+Engineering+(PHP%2FLaravel,+Go,+Python,+Nodejs,+Reactjs%2FNextjs,);Passionate+about+REST+API+Design+Integration,+DevSecOps,+and+Microservices;Building+Scalable+%26+Secure+Systems;AI+Solution+Integration,+AI+Agents,+and+Automation;Always+Learning+%26+Sharing+Knowledge!" alt="Typing SVG" />
   </a>
 </p>
 
