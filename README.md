@@ -63,6 +63,56 @@ Riyadh, Saudi Arabia | January 2017 – Present
  
 ---
 
+## 📜 Selected Enterprise Projects
+
+### Enterprise AI Speech Processing Platform — Shafawi (شُفوي) | 2026
+
+Designed and delivered an AI-powered enterprise speech processing platform integrating **HUMAIN AI models** for Speech-to-Text and Text-to-Speech capabilities, multilingual workflows, secure media processing, and production deployment.
+
+**Role:** Solution Architect | Lead Software Engineer | AI Solutions Engineer
+
+---
+
+### Enterprise Intelligent Document Processing Platform — Darah OCR | 2025
+
+Designed and delivered an OCR-driven enterprise document processing platform supporting structured document workflows, asynchronous processing, secure storage, operational dashboards, and scalable enterprise deployment.
+
+**Role:** Solution Architect | Lead Software Engineer | AI Solutions Engineer
+
+---
+
+### Enterprise Educational Content Review Platform | 2025
+
+Designed and developed a workflow-driven enterprise platform for digitizing educational content review, approvals, SLA tracking, and committee-based workflows using **Next.js, PostgreSQL, Prisma, Docker, and RBAC**.
+
+**Role:** Solution Architect | Senior Software Engineer
+
+---
+
+### Enterprise Academic Journal Platform | 2025
+
+Designed and developed a bilingual academic publishing platform supporting editorial workflows, role-based access control, DOI and citation management, multilingual publishing, and production deployment.
+
+**Role:** Solution Architect | Senior Software Engineer
+
+---
+
+## 📊 Selected Achievements
+
+- Delivered **4+ enterprise platforms** supporting government digital transformation initiatives.
+- Led the development and production delivery of enterprise applications supporting **multiple business departments and operational workflows**.
+- Currently supporting the transcription of **6,000+ oral history recordings** through the Shafawi platform.
+- Reduced speech transcription turnaround time from approximately **3–7 days to around one minute per recording** through AI-powered speech processing.
+- Delivered enterprise solutions spanning **AI integration, document processing, workflow automation, software architecture, secure application development, and production operations**.
+
+---
+
+**Additional Information:**  
+Additional enterprise projects and technical case studies are available at [fabdalla.dev](https://fabdalla.dev/).
+
+---
+
+
 ## 📜 Certificates & Courses
 
 - Docker Mastery  
